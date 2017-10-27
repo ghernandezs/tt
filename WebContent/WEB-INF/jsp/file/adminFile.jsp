@@ -9,6 +9,8 @@
 <script  src="/AcademicFileCloud/script/AES/utils.js" type="text/javascript"></script>
 <script  src="/AcademicFileCloud/script/AES/aes.js" type="text/javascript"></script>
 <script  src="/AcademicFileCloud/script/AES/sbox.js" type="text/javascript"></script>
+<script  src="/AcademicFileCloud/script/AES/multiplications.js" type="text/javascript"></script>
+
 <script type="text/javascript">
 $(document).ready(function () {
     $('#objFile').change(function () {
@@ -16,6 +18,8 @@ $(document).ready(function () {
     });
 
 });
+
+
 </script>
 <html>
 <head>
